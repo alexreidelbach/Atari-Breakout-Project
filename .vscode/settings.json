@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stm32f0xx.h": "c",
+        "stdint.h": "c",
+        "tty.h": "c",
+        "lcd.h": "c",
+        "commands.h": "c",
+        "stdbool.h": "c",
+        "ff.h": "c",
+        "*.s": "c",
+        "stdio.h": "c"
+    }
+}
